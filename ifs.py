@@ -6,7 +6,7 @@ if is_tall and is_male:
 elif is_male:
     print("you are a male")
 elif not(is_tall):
-    print("you are a girl")
+    print("you are a female")
 else:
     print("you neither male nor tall")
     
